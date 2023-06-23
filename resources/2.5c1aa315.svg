@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="294px" height="198px" viewBox="0 0 294 198" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.3 (81716) - https://sketch.com -->
+    <title>feature/2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="0%" y1="57.5091105%" x2="100%" y2="57.5091105%" id="linearGradient-1">
+            <stop stop-color="#7983FF" offset="0%"></stop>
+            <stop stop-color="#00F8FF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="0%" y1="57.5091105%" x2="100%" y2="57.5091105%" id="linearGradient-2">
+            <stop stop-color="#7983FF" offset="0%"></stop>
+            <stop stop-color="#23D6FF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Tranching" transform="translate(-786.000000, -1092.000000)">
+            <g id="feature/2" transform="translate(748.000000, 1090.000000)">
+                <rect id="Rectangle-Copy-50" fill="url(#linearGradient-1)" opacity="0" x="0" y="0" width="370" height="200"></rect>
+                <g id="Group-2" transform="translate(39.000000, 2.000000)">
+                    <rect id="Rectangle-Copy-6" stroke="#26D2FF" stroke-width="2" fill="#000000" x="0" y="122" width="292" height="75" rx="12"></rect>
+                    <text id="Junior-Tranche" font-family="MalayalamSangamMN-Bold, Malayalam Sangam MN" font-size="20" font-weight="bold" letter-spacing="0.362512917" fill="#CED4E4">
+                        <tspan x="130" y="164">Junior Tranche</tspan>
+                    </text>
+                    <rect id="Rectangle-Copy-6" fill="url(#linearGradient-2)" x="0" y="0" width="292" height="75" rx="12"></rect>
+                    <text id="Senior-Tranche" font-family="MalayalamSangamMN-Bold, Malayalam Sangam MN" font-size="20" font-weight="bold" letter-spacing="0.362512917" fill="#FFFFFF">
+                        <tspan x="130" y="48">Senior Tranche</tspan>
+                    </text>
+                    <rect id="Rectangle-Copy-6" fill="#FFFFFF" x="31" y="27" width="59" height="30" rx="1"></rect>
+                    <rect id="Rectangle-Copy-22" stroke="#26D2FF" x="25" y="145" width="59" height="30" rx="1"></rect>
+                    <path d="M81,24 L29,24 C28.4477153,24 28,24.4477153 28,25 L28,48 L23,48 C22.4477153,48 22,47.5522847 22,47 L22,19 C22,18.4477153 22.4477153,18 23,18 L80,18 C80.5522847,18 81,18.4477153 81,19 L81,24 Z" id="Combined-Shape" fill="#FFFFFF"></path>
+                    <path d="M36.064,47.0005016 L36.064,36.9994984 C38.2436237,36.9653085 40,35.1877661 40,33 L80,33 C80,35.209139 81.790861,37 84,37 C84.0213729,37 84.0427066,36.9998324 84.064,36.9994984 L84.064,47.0005016 C84.0427066,47.0001676 84.0213729,47 84,47 C81.790861,47 80,48.790861 80,51 L40,51 C40,48.8122339 38.2436237,47.0346915 36.064,47.0005016 Z" id="Combined-Shape" fill="#26D2FF"></path>
+                    <path d="M30.064,165.000502 L30.064,154.999498 C32.2436237,154.965309 34,153.187766 34,151 L74,151 C74,153.209139 75.790861,155 78,155 C78.0213729,155 78.0427066,154.999832 78.064,154.999498 L78.064,165.000502 C78.0427066,165.000168 78.0213729,165 78,165 C75.790861,165 74,166.790861 74,169 L34,169 C34,166.812234 32.2436237,165.034691 30.064,165.000502 Z" id="Combined-Shape-Copy-4" fill="#26D2FF"></path>
+                    <path id="Line-3" d="M229.5,82.5675066 L224.131314,92.1118368 L222.388163,91.1313143 L230.5,76.7102711 L238.611837,91.1313143 L236.868686,92.1118368 L231.5,82.5675066 L231.5,122.5 L229.5,122.5 L229.5,82.5675066 Z" fill="#07F1FF" fill-rule="nonzero"></path>
+                    <path id="Line-3" d="M53.5,82.5675066 L48.1313143,92.1118368 L46.3881632,91.1313143 L54.5,76.7102711 L62.6118368,91.1313143 L60.8686857,92.1118368 L55.5,82.5675066 L55.5,122.5 L53.5,122.5 L53.5,82.5675066 Z" fill="#07F1FF" fill-rule="nonzero"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
