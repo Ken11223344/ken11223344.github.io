@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="291px" height="150px" viewBox="0 0 291 150" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.3 (81716) - https://sketch.com -->
+    <title>feature/4</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <radialGradient cx="50%" cy="50%" fx="50%" fy="50%" r="50%" gradientTransform="translate(0.500000,0.500000),scale(0.592000,1.000000),rotate(90.000000),translate(-0.500000,-0.500000)" id="radialGradient-1">
+            <stop stop-color="#5D6CCC" offset="0%"></stop>
+            <stop stop-color="#000000" stop-opacity="0" offset="100%"></stop>
+        </radialGradient>
+        <radialGradient cx="100%" cy="57.5091105%" fx="100%" fy="57.5091105%" r="100%" id="radialGradient-2">
+            <stop stop-color="#FFF400" offset="0%"></stop>
+            <stop stop-color="#FF79DB" offset="100%"></stop>
+        </radialGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Tranching" transform="translate(-788.000000, -1738.000000)">
+            <g id="feature/4" transform="translate(748.000000, 1713.000000)">
+                <rect id="Rectangle" fill="#FFFFFF" opacity="0" x="0" y="0" width="370" height="200"></rect>
+                <g id="Group-6" transform="translate(40.000000, 26.000000)">
+                    <rect id="box" stroke="#07F1FF" stroke-width="2" fill="url(#radialGradient-1)" x="33" y="0" width="250" height="148" rx="16"></rect>
+                    <path d="M101,15 L132,15 C138.627417,15 144,20.372583 144,27 L144,58 C144,64.627417 138.627417,70 132,70 L101,70 C94.372583,70 89,64.627417 89,58 L89,27 C89,20.372583 94.372583,15 101,15 Z" id="Rectangle-Copy-5" fill="url(#radialGradient-2)"></path>
+                    <path d="M101,79 L132,79 C138.627417,79 144,84.372583 144,91 L144,122 C144,128.627417 138.627417,134 132,134 L101,134 C94.372583,134 89,128.627417 89,122 L89,91 C89,84.372583 94.372583,79 101,79 Z" id="Rectangle-Copy-42" fill="url(#radialGradient-2)"></path>
+                    <path d="M165,15 L196,15 C202.627417,15 208,20.372583 208,27 L208,58 C208,64.627417 202.627417,70 196,70 L165,70 C158.372583,70 153,64.627417 153,58 L153,27 C153,20.372583 158.372583,15 165,15 Z" id="Rectangle-Copy-41" fill="url(#radialGradient-2)"></path>
+                    <path d="M165,79 L196,79 C202.627417,79 208,84.372583 208,91 L208,122 C208,128.627417 202.627417,134 196,134 L165,134 C158.372583,134 153,128.627417 153,122 L153,91 C153,84.372583 158.372583,79 165,79 Z" id="Rectangle-Copy-43" fill="url(#radialGradient-2)"></path>
+                    <path d="M243,52 C251.836556,52 259,44.836556 259,36 C259,27.163444 251.836556,20 243,20 C234.163444,20 227,27.163444 227,36 C227,44.836556 234.163444,52 243,52 Z" id="Oval" fill="url(#radialGradient-2)"></path>
+                    <path d="M267,72 C271.418278,72 275,68.418278 275,64 C275,59.581722 271.418278,56 267,56 C262.581722,56 259,59.581722 259,64 C259,68.418278 262.581722,72 267,72 Z" id="Oval" fill="url(#radialGradient-2)"></path>
+                    <path d="M34,139 C42.836556,139 50,131.836556 50,123 C50,114.163444 42.836556,107 34,107 C25.163444,107 18,114.163444 18,123 C18,131.836556 25.163444,139 34,139 Z" id="Oval" fill="url(#radialGradient-2)"></path>
+                    <path d="M58,52 C62.418278,52 66,48.418278 66,44 C66,39.581722 62.418278,36 58,36 C53.581722,36 50,39.581722 50,44 C50,48.418278 53.581722,52 58,52 Z" id="Oval" fill="url(#radialGradient-2)"></path>
+                    <path d="M8,96 C12.418278,96 16,92.418278 16,88 C16,83.581722 12.418278,80 8,80 C3.581722,80 0,83.581722 0,88 C0,92.418278 3.581722,96 8,96 Z" id="Oval" fill="url(#radialGradient-2)"></path>
+                    <path d="M283,131 C287.418278,131 291,127.418278 291,123 C291,118.581722 287.418278,115 283,115 C278.581722,115 275,118.581722 275,123 C275,127.418278 278.581722,131 283,131 Z" id="Oval" fill="url(#radialGradient-2)"></path>
+                    <path d="M244,109 C248.418278,109 252,105.418278 252,101 C252,96.581722 248.418278,93 244,93 C239.581722,93 236,96.581722 236,101 C236,105.418278 239.581722,109 244,109 Z" id="Oval" fill="url(#radialGradient-2)"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

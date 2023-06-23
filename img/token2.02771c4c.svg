@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100px" height="96px" viewBox="0 0 100 96" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.3 (81716) - https://sketch.com -->
+    <title>icon/token2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="0%" y1="57.5091105%" x2="100%" y2="57.5091105%" id="linearGradient-1">
+            <stop stop-color="#7983FF" offset="0%"></stop>
+            <stop stop-color="#00F8FF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Tranching" transform="translate(-670.000000, -2512.000000)">
+            <g id="icon/token2" transform="translate(670.000000, 2512.000000)">
+                <rect id="Rectangle-Copy-4" fill="url(#linearGradient-1)" opacity="0" x="0" y="0" width="100" height="100"></rect>
+                <rect id="Rectangle-Copy-6" fill="#FFFFFF" opacity="0.513387044" x="21" y="79" width="59" height="4" rx="1"></rect>
+                <rect id="Rectangle-Copy-44" stroke="#FFFFFF" stroke-width="2" x="1" y="37" width="98" height="58" rx="8"></rect>
+                <path d="M30,0 L70,0 C74.418278,-8.11624501e-16 78,3.581722 78,8 L78,31 L22,31 L22,8 C22,3.581722 25.581722,8.11624501e-16 30,0 Z" id="Rectangle-Copy-44" fill="#FFFFFF"></path>
+                <polygon id="Rectangle-Copy-45" fill="#FFFFFF" opacity="0.513387044" transform="translate(50.000000, 57.000000) scale(1, -1) translate(-50.000000, -57.000000) " points="22 44 31.3333333 47 40.6666667 44 50 47 59.3333333 44 68.6666667 47 78 44 78 70 22 70"></polygon>
+                <rect id="Rectangle" fill="#000000" x="38" y="17" width="24" height="14"></rect>
+                <rect id="Rectangle-Copy-24" fill="#000000" x="38" y="44" width="24" height="15"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

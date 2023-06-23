@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="78px" height="66px" viewBox="0 0 78 66" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.3 (81716) - https://sketch.com -->
+    <title>icon/token3</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="0%" y1="57.5091105%" x2="100%" y2="57.5091105%" id="linearGradient-1">
+            <stop stop-color="#7983FF" offset="0%"></stop>
+            <stop stop-color="#00F8FF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Tranching" transform="translate(-1003.000000, -2531.000000)">
+            <g id="icon/token3" transform="translate(992.000000, 2512.000000)">
+                <rect id="Rectangle-Copy-3" fill="url(#linearGradient-1)" opacity="0" x="0" y="0" width="100" height="100"></rect>
+                <g id="Group" transform="translate(11.000000, 19.000000)">
+                    <rect id="Rectangle-Copy-6" fill="#FFFFFF" x="0" y="0" width="78" height="40" rx="1.3220339"></rect>
+                    <path d="M6.69477966,26.6673355 L6.69477966,13.3326645 C9.57631606,13.287078 11.8983051,10.9170215 11.8983051,8 L64.779661,8 C64.779661,10.9455187 67.14724,13.3333333 70.0677966,13.3333333 C70.0960523,13.3333333 70.1242562,13.3331098 70.1524068,13.3326645 L70.1524068,26.6673355 C70.1242562,26.6668902 70.0960523,26.6666667 70.0677966,26.6666667 C67.14724,26.6666667 64.779661,29.0544813 64.779661,32 L11.8983051,32 C11.8983051,29.0829785 9.57631606,26.712922 6.69477966,26.6673355 Z" id="Combined-Shape" fill="#000000"></path>
+                </g>
+                <rect id="Rectangle-Copy-6" fill="#FFFFFF" x="18" y="64" width="64" height="4" rx="1"></rect>
+                <rect id="Rectangle-Copy-6" fill="#FFFFFF" x="22" y="73" width="56" height="4" rx="1"></rect>
+                <rect id="Rectangle-Copy-6" fill="#FFFFFF" x="26" y="81" width="48" height="4" rx="1"></rect>
+                <circle id="Oval" stroke="#FFFFFF" cx="50" cy="39" r="6.5"></circle>
+            </g>
+        </g>
+    </g>
+</svg>
